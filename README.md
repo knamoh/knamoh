@@ -13,7 +13,7 @@ Aspiring Data Analyst with SQL skills and a passion for turning raw data into in
 
 ## 📜 Certifications
 - HackerRank SQL (Intermediate)  
-- SQL Basics – Udemy  
+- SQL Fundamentals – Simplilearn SkillUp 
 
 ## ⚒️ Tools & Skills
 SQL · MySQL · SQL Server · Data Cleaning · Joins · GROUP BY · CTEs · Subqueries  
