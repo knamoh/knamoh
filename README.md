@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Naman Kumar
 
-<!--
-**knamoh/knamoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with SQL skills and a passion for turning raw data into insights.
 
-Here are some ideas to get you started:
+- 🔍 Currently working on SQL projects like Coffee Sales and E-commerce Analytics  
+- 💡 Learning MySQL, LeetCode SQL, and real-world data analysis  
+- 📫 How to reach me: naman9258@gmail.com  
+- 🌱 Always curious about databases, insights, and real-life business problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projects
+- [Monday Coffee SQL Project](https://github.com/yourusername/monday-coffee-sql-project)
+- [E-commerce Retail SQL Project](https://github.com/yourusername/ecommerce-retail-sql-project)
+
+## 📜 Certifications
+- HackerRank SQL (Intermediate)  
+- SQL Basics – Udemy  
+
+## ⚒️ Tools & Skills
+SQL · MySQL · SQL Server · Data Cleaning · Joins · GROUP BY · CTEs · Subqueries  
