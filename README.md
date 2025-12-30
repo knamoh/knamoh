@@ -8,8 +8,8 @@ Aspiring Data Analyst with SQL skills and a passion for turning raw data into in
 - 🌱 Always curious about databases, insights, and real-life business problems  
 
 ## 🔗 Projects
-- [Monday Coffee SQL Project](https://github.com/yourusername/monday-coffee-sql-project)
-- [E-commerce Retail SQL Project](https://github.com/yourusername/ecommerce-retail-sql-project)
+- [Monday Coffee SQL Project](https://github.com/knamoh/monday-coffee-sql-project)
+- [E-commerce Retail SQL Project](https://github.com/knmaoh/ecommerce-retail-sql-project)
 
 ## 📜 Certifications
 - HackerRank SQL (Intermediate)  
